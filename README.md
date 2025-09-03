@@ -6,7 +6,7 @@ Bem-vindo ao projeto Libris! Este é um aplicativo que permite aos usuários cad
 
 **Use seu IDE preferido**
 
-Se você quiser trabalhar localmente usando seu próprio IDE, pode clonar este repositório e enviar alterações. As alterações enviadas também serão refletidas no Lovable.
+Se você quiser trabalhar localmente usando seu próprio IDE, pode clonar este repositório e enviar alterações.
 
 O único requisito é ter o Node.js e o npm instalados - [instale com nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
